@@ -1,0 +1,9 @@
+fire
+water
+smoke
+smartphone
+computer
+teacher
+phone
+car
+bottle
